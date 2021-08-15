@@ -18,6 +18,16 @@ C++ Literals
   - ```-2.0```, ```0.0000234```, ```-0.22E-5```
 - 3. Characters
 - 4. Escape Sequences
+  - characters that cannot be typed or has special meaning in C++ programming. For example, newline (enter), tab, question mark, etc.
+  - <img src="https://user-images.githubusercontent.com/63312847/129484358-64d4c9a1-ed8f-4683-82a7-61e3aba30412.jpg" width="600">
+- 5. String Literals
+  - sequence of characters enclosed in double-quote marks
+  - <img src="https://user-images.githubusercontent.com/63312847/129484444-ece948e0-0bce-4a27-847e-aa5cae949c2a.jpg" width="600">
+
+C++ Constants
+- we can create variables whose value cannot be changed. For that, we use the const keyword.
+- <img src="https://user-images.githubusercontent.com/63312847/129484496-06931fb9-1ab3-465c-a518-228f405930e2.jpg" width="600">
+
 
 
 
